@@ -1,6 +1,11 @@
 # Getting Started with Search and Bookmarking app
+## Demo
+
+Open [https://master--benevolent-shortbread-0017cc.netlify.app/] for live preview.
+
 ## Available Scripts
 
+Please add `.env` file with variable name `REACT_APP_GITHUB_TOKEN` to run it locally.
 In the project directory, you can run:
 
 ### `npm start`
